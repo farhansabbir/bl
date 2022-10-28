@@ -1,0 +1,12 @@
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20%;
+    border: 3px solid rgb(216, 102, 2);
+  }
+
+.container {
+  display: flex;
+  width: 600px;
+}
